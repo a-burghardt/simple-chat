@@ -1,14 +1,3 @@
-# Hashzap
-# botao de iniciar chat
-# popup para entrar no chat
-# quando entrar no chat: (aparece pra todo mundo)
-    # a mensagem que voce entrou no chat
-    # o campo e o botao de enviar mensagem
-# a cada mensagem que voce envia (aparece pra todo mundo)
-    # Nome: Texto da mensagem
-# pode-se adicionar a funcao "view=ft.WEB_BROWSER" apos target=main para abrir como website
-# start_button = ft.ElevatedButton("Iniciar Chat")
-
 import flet as ft
 
 def main(page):
